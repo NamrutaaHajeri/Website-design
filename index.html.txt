@@ -1,0 +1,180 @@
+<html>
+<head>
+<title>THAR </title>
+<link rel="logo" href="thar logo 1.png">
+
+<style>
+textarea{
+resize:none;
+}
+</style>
+
+</head>
+<body bgcolor="#0b1116"style="color:white;font-family:verdana">
+<table border="0" width="1300" height="500" align="center" cellspacing="4" cellpadding="7"background="tharbackground.jpg"align="center">
+
+<tr height="50">
+<td width="580"><img src="thar logo.png"width="50"alt="logo"></td>
+
+<td align="center"width="150"heigth="50"><a href="THARwebsite.html"title="Go to home"><button class="button"style="width:100;height:30;background-color:#0b1116;border:0;color:white"><b><big>HOME </big></b></button></a></td>
+
+
+<td align="center"width="150"heigth="50"><a href="#aboutus"title="Go to About"><button class="button"style="width:100;height:30;background-color:#0b1116;border:0;color:white"><b><big>ABOUT </big></b></button></a></td>
+
+
+<td align="center"width="150"heigth="50"><a href="#gallery"title="Go to Gallery"><button class="button"style="width:100;height:30;background-color:#0b1116;border:0;color:white"><b><big>GaALLERY </big></b></button></a></td>
+
+
+
+<td align="center"width="150"heigth="50"><a href="#contactus"title="Go to contact "><button class="button"style="width:150;height:30;background-color:#0b1116;border:0;color:white"><b><big>CONTACT US </big></b></button></a></td>
+
+<td align="cener width="30"><a href="https://twitter.com/mask_alishayan"title="Twitter"><img src="twitter1.png"width="30"height="30"></a></td>
+
+
+<td align="cener width="30"><a href="https://facebook.com/programming.mask"title="Facebook"><img src="facebook.jpg"width="30"height="30"></a></td>
+
+<td align="cener width="30"><a href="https://instagram.com/programming.mask"title="Instagram"><img src="instagram.jpg"width="30"height="30"></a></td>
+
+
+<td align="cener width="30"><a href="https://youtube.com/MASKalishayan"title="YouTube"><img src="you tube.png"width="30"height="30"></a></td>
+
+</tr>
+
+<tr height="200"width="1300">
+<td  width="1300 align="center"colspan="9"><p align="center"><big><big><b>WELCOME</b></big?</big></p></td></tr>
+
+<tr>
+<td width="1300"height="400"></td>
+</tr>
+ 
+
+
+<!-----GALLERY----->
+
+<div id="gallery">
+<table border="0" width="1300"height="100"align="center"bgcolor="#0b1116">
+<tr>
+<td>
+<center>
+<p style="width:250;height:30;background-color:#0b1116;border:0;color:white"><big><big><b>GALLERY</b></big></big> </p>
+</center>
+</td>
+</tr>
+</table>
+
+<table style="border:0;border:collapse"width="1300"height="300"align="center"bgcolor="#101820">
+<tr>
+<td align="center"width="400"height="500"><img src="tharcar 1.webp" width="400"height="350"></td>
+
+<td align="center"width="250"height="500"><img src="tharcar 3.webp" width="400"height="350"></td>
+
+<td align="center"width="400"height="500"><img src="tharcar 4.gif" width="400"height="350"></td>
+
+</tr>
+</table>
+</div>
+
+<!------ABOUT US----->
+
+<div id="aboutus">
+<table border="0"width="1300"height="100"align="center"bgcolor="#0b1116">
+<tr>
+<td>
+<center>
+<p style="width:250;height:30;background-color:#0b1116;border:0;color:white"><big><big><b>ABOUT US 
+</b></big></big></p>
+</center>
+</td>
+</tr>
+</table>
+
+<table border="0"width="1300"height="500"align="center"bgcolor="#0b1116">
+<tr>
+<td rowspan="2"width="100"height="500"></td>
+<td width="500"height="500"><p style="color:lightgrey"><big><big><what is lorem lpsum?></big></big>
+</br>
+</br>
+<big>THE MAHINDRA THAR IS DESIGNED BY Ramkripa Ananthan The Mahindra Thar is a compact, four-wheel drive, off-road SUV manufactured by Indian automaker Mahindra and Mahindra Ltd.
+The Thar is designed to be a rugged and capable vehicle that can handle any terrain with ease. It is available with a choice of petrol and diesel engines and comes in both 2-wheel-drive and 4-wheel-drive configurations.Named after the Thar Desert, the Mahindra Thar was first introduced in 2010 as a modernized version of the Mahindra Legend, which was based on the Mahindra MM540, a vehicle that was in production in India since the 1980s.The THAR has carved a niche for itself as a capable off-road SUV that appeals to adventurers, outdoor enthusiasts, and those looking for a vehicle that embodies ruggedness and reliability. With its blend of heritage-inspired design, modern features, and off-road prowess, the THAR continues to be a symbol of adventure and exploration in the automotive industry.
+
+</big></p></td>
+<td align=" center"width="300"height="390">
+     <video style="width: 55%" src=" thar_video.mp4" controls/></td>
+</tr>
+</table>
+</div>
+
+
+
+<div id="contactus">
+<table border="0"width="1300"height="100"align="center"bgcolor="#0b1116">
+<tr>
+<td>
+<center>
+<p style="width:250;height:30;background-color:#0b1116";border:0;color:white><big><big><b>CONTACT US
+</b></big></big></p>
+</center>
+</td>
+</tr>
+</table>
+
+
+<table border="0"width="1300"height="300" align="center"bgcolor="#101820">
+<tr>
+<td width="300"></td>
+<td>
+<form>
+<p align="left">username</p>
+<input type="text"></br>
+<p align="left">Email</p>
+<input type="email"></br></br></br>
+<input type="submit">
+</form>
+</td?
+<td align="center">
+<textarea rows="12"cols="50">
+</textarea>
+</td>
+<td width="300"></td>
+</tr>
+</table>
+
+<!----- Last Part -----!>
+
+<!-----LAST PART---->
+<table border="0"width="1300"height="30"align="center"bgcolor="#0b1116">
+<tr>
+<td></td>
+</tr>
+</table>
+
+<table border="0"width="1300"height="30"align="center">
+<tr>
+<td>
+<p align="center" > <b>THAR</b></p>
+<p align="center" > abc@gmail.com</p>
+<p align="center" > Phone number</p>
+<p align="center" > Address</p>
+
+<div class="social-icons">
+  <p  text-align: right; </p>
+ <p   margin-right: 20px; </p>
+
+
+ <a href="https://twitter.com/mask_alishayan"title="twitter"><img src="twitter1.png"width="40"height="40"></a>
+
+<a href="https://facebook.com/programming.mask"title="Facebook"><img src="facebook.jpg"width="40"height="40"></a>
+
+<a href="https://instagram.com/programming.mask"title="instagram"><img src="instagram.jpg"width="40"height="40"></a>
+
+<a href="https://youtube.com/MASKalishayan"title="Youtube"<><img src="you tube.png"width="40"height="40"></a>
+
+</pre>
+<p align="center"style="color:grey">2020 MASK </p>
+</td>
+</tr>
+</table>
+</div>
+
+</body>
+</html>
